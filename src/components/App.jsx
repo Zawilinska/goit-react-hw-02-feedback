@@ -7,7 +7,7 @@ import { Notification } from './Notification/Notification';
 
 const StyledWrapper = styled.div`
   color: #313131;
-  padding: 10px;
+  padding: 11px;
 `;
 
 export class App extends Component {
